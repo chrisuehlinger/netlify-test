@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: renvrant/gatsby-mdx-netlify-cms-starter
-  branch: master
+  repo: chrisuehlinger/netlify-test
+  branch: gh-pages
 
 media_folder: uploads/img
 public_folder: /img
