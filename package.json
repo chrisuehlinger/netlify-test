@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-mdx-netlify-cms-starter",
+  "name": "netlify-test",
   "private": true,
   "description": "Gatsby starter configured to work with MDX and Netlify CMS",
   "version": "0.3.0",
-  "author": "Renee Blackburn <rvrant@gmail.com>",
+  "author": "Chris Uehlinger <rvrant@gmail.com>",
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",

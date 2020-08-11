@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: chrisuehlinger/netlify-test
-  branch: gh-pages
+  branch: master
 
 media_folder: uploads/img
 public_folder: /img
